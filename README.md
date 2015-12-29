@@ -1,6 +1,3 @@
-# Atom Rockwell UI theme
+# Atom CMYK UI theme
 
-A Rockwell UI theme for Atom.
-
-
-
+A CMYK Dark UI theme for Atom.
