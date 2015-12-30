@@ -1,7 +1,7 @@
 {
   "name": "cmyk-dark-ui",
   "theme": "ui",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A CMYK UI theme for Atom",
   "license": "MIT",
   "repository": "https://github.com/UrielMiranda/cmyk-dark-ui",
